@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cosmo",
+    "patientCount": 100,
+    "location": "TVM"
+  },
+  {
+    "name": "Jubilee",
+    "patientCount": 150,
+    "location": "Trivandrum"
+  },
+  {
+    "name": "Chaitanya",
+    "patientCount": 200,
+    "location": "Kollam"
+  }
+]
